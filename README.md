@@ -5,7 +5,7 @@ In this paper, we propose use of ensembled multilingual models (transformers) wi
 
 To replicate the results, use the output files from ```DistilmBERT/DistilmBERT(class_weightiing+pseudo_labelling).ipynb``` and ```ULMFiT/{lang}_PseudoLabelling_AggressionNLP.ipynb``` to feed to ```Soft Ensemble/Soft_Ensembling.ipynb```
 
-if you find this repo useful, please cite our paper :
+If you find this repo useful, please cite our paper :
 ```
 @inproceedings{tula2021bitions,
    title={Bitions@DravidianLangTech-EACL2021: Ensemble of Multilingual Language Models with Pseudo Labeling for offence Detection in Dravidian Languages},
