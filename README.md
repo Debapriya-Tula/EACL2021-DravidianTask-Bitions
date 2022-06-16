@@ -1,5 +1,5 @@
 # EACL2021-DravidianTask-Bitions and SN Computer Science Journal
-This repo contains implementation for the paper <b>"Bitions@DravidianLangTech-EACL2021: Ensemble of Multilingual Language Models with Pseudo Labeling for Offence Detection in Dravidian Languages"</b> presented at EACL-2021, and the paper <b>"Offence Detection in Dravidian Languages Using Code-Mixing Index-Based Focal Loss"</b> accepted to SN Computer Science
+This repo contains implementation for the paper <a href="https://aclanthology.org/2021.dravidianlangtech-1.42/"> <b>"Bitions@DravidianLangTech-EACL2021: Ensemble of Multilingual Language Models with Pseudo Labeling for Offence Detection in Dravidian Languages"</b></a> presented at EACL-2021, and the paper <a href="https://doi.org/10.1007/s42979-022-01190-1"><b>"Offence Detection in Dravidian Languages Using Code-Mixing Index-Based Focal Loss"</b></a> accepted to SN Computer Science Journal.
 
 In this paper, we propose use of ensembled multilingual models (transformers) with focal loss and inverse class weights. Further, we make use of pseudo labelling to improve our results. A novel loss based on the focal loss is proposed to cater to code-mixing in the data. A cosine normalization classifier is used to cater to few-shot classes as well.
 
@@ -22,7 +22,7 @@ If you find this repo useful, please cite our papers :
     month = {April},
     year = {2021},
     publisher = {Association for Computational Linguistics}
-    url={https://aclanthology.org/2021.dravidianlangtech-1.42/}
+    url = {https://aclanthology.org/2021.dravidianlangtech-1.42/}
 }
 ```
 
